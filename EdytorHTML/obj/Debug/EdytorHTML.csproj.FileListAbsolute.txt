@@ -1,0 +1,19 @@
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\obj\Debug\EdytorHTML.csprojAssemblyReference.cache
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\obj\Debug\EdytorHTML.Form1.resources
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\obj\Debug\EdytorHTML.Properties.Resources.resources
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\obj\Debug\EdytorHTML.csproj.GenerateResource.cache
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\obj\Debug\EdytorHTML.csproj.CoreCompileInputs.cache
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\bin\Debug\EdytorHTML.exe.config
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\bin\Debug\EdytorHTML.exe
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\bin\Debug\EdytorHTML.pdb
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\obj\Debug\EdytorHTML.exe
+C:\Users\Czuczu\source\repos\EdytorHTML\EdytorHTML\obj\Debug\EdytorHTML.pdb
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\bin\Debug\EdytorHTML.exe.config
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\obj\Debug\EdytorHTML.exe
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\obj\Debug\EdytorHTML.pdb
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\bin\Debug\EdytorHTML.exe
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\bin\Debug\EdytorHTML.pdb
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\obj\Debug\EdytorHTML.csprojResolveAssemblyReference.cache
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\obj\Debug\EdytorHTML.Form1.resources
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\obj\Debug\EdytorHTML.Properties.Resources.resources
+C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\obj\Debug\EdytorHTML.csproj.GenerateResource.Cache

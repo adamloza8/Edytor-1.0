@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "EdytorHTML", "EdytorHTML.exe", "{D0183D1C-A212-4005-84F0-332DDBB0AFA9}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\bin\Debug\EdytorHTML.exe
+		RemoteMachine = CZUCZU-PC
+		StartingDirectory = C:\Users\Czuczu\source\repos\EdytorHTML beta\EdytorHTML\bin\Debug
+		Environment = Domyślne
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0183D1C-A212-4005-84F0-332DDBB0AFA9}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C3CCE6-BEC3-4BA7-B7F2-0BE9507423E3}
+	EndGlobalSection
+EndGlobal
